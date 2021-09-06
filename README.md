@@ -1,6 +1,6 @@
-# dictionary
+# Dictionary app
 
-A new Flutter project.
+A simple Flutter app
 
 ## Getting Started
 
