@@ -1,3 +1,3 @@
 # Dictionary app
 
-A simple dictionary using Bloc state management, includes Api calling and json parsing.
+Flutter Dictionary Application with BLoC Pattern, include API calling and JSON parsing.
